@@ -28,3 +28,4 @@ C:\Users\User\projetos\masterchef\master\obj\Debug\net6.0\refint\master.dll
 C:\Users\User\projetos\masterchef\master\obj\Debug\net6.0\master.pdb
 C:\Users\User\projetos\masterchef\master\obj\Debug\net6.0\master.genruntimeconfig.cache
 C:\Users\User\projetos\masterchef\master\obj\Debug\net6.0\ref\master.dll
+C:\Users\User\projetos\masterchef\master\obj\Debug\net6.0\master.sourcelink.json

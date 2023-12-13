@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Views\\Shared",
-    "\\wwwroot\\css"
+    "\\Controllers",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\MBrasil",
+    "\\Views\\Shared"
   ],
-  "SelectedNode": "\\master.sln",
+  "SelectedNode": "\\Views\\MBrasil\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

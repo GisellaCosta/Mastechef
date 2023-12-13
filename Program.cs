@@ -24,4 +24,30 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}");
 
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=MBrasil}/{action=Index}");
+
+//app.MapControllerRoute(
+//    name: "Republica",
+//    pattern: "123",
+//    defaults: new { controller = "home", action = "Republica" });
+
+//app.MapControllerRoute(
+//    name: "Despesas",
+//    pattern: "Despesas",
+//    defaults: new { controller = "Expensive", action = "Despesas" });
+
+//app.MapControllerRoute(
+//    name: "Pessoas",
+//    pattern: "Pessoas",
+//    defaults: new { controller = "Home", action = "Pessoas" });
+
+//app.MapControllerRoute(
+//    name: "default",
+//    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+app.Run();
+
 app.Run();
